@@ -1,0 +1,7 @@
+- ¿Qué espero aprender en la parte de introducción a Julia? 
+
+Espero saber por qué a la gente le gusta tanto Julia.
+
+- ¿Qué experiencia previa tengo en programación?
+Muy poca
+...
