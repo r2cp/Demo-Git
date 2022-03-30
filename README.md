@@ -7,7 +7,7 @@ En este archivo indicamos nuestro nombre y usuario de Github:
 - 
 - 
 - 
-- 
+- Luis Alejandro Samayoa Alvarado
 - 
 - 
 - 
