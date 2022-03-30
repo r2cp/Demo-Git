@@ -1,6 +1,6 @@
 - ¿Qué espero aprender en la parte de introducción a Julia? 
 
-    *   Repasar los conceptos básicos de environments, paquetes y proyectos y su relación con Git y GitHub.
+    *   Repasar los conceptos básicos de environments, paquetes y proyectos, así como la relación que tienen con Git y GitHub.
     *   Diferentes soluciones para gráficas.
     *   Soluciones para manejar datos rectangulares.
 
