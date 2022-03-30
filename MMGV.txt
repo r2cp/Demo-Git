@@ -5,3 +5,5 @@ Espero que los participantes no estén demasiado perdidos.
 - ¿Qué experiencia previa tengo en programación?
 
 ...  
+Herramientas basicas de programación
+Nivel básico de R
