@@ -11,14 +11,13 @@ En este archivo indicamos nuestro nombre y usuario de Github:
 - 
 - Edson Ortiz edsonortiz1280
 - 
+- Luis Alejandro Samayoa Alvarado
 - EMLF Eva María de León Fajardo
 - 
 - 
 - 
 - 
-- 
 - Marian Reynoso, marianrgodoy.
-
 - 
 - 
 - 
