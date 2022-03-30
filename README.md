@@ -7,6 +7,7 @@ En este archivo indicamos nuestro nombre y usuario de Github:
 
 - Mauricio Vargas Estrada `m4wnn`.
 - 
+- Maria González Usuario MMGV4124
 - Guisela Hurtarte guiselaha
 - 
 - David José Gabriel Maselli `djgabrielm`
