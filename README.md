@@ -5,11 +5,11 @@ Vamos a crear algunos archivos con las expectativas de cada participante.
 
 En este archivo indicamos nuestro nombre y usuario de Github: 
 - 
-- 
-- 
-- 
-- 
 - Guisela Hurtarte guiselaha
+- 
+- 
+- 
+- 
 - 
 - 
 - 
