@@ -7,7 +7,7 @@ En este archivo indicamos nuestro nombre y usuario de Github:
 
 - Mauricio Vargas Estrada `m4wnn`.
 - 
-- 
+- Guisela Hurtarte guiselaha
 - 
 - 
 - 
