@@ -1,0 +1,9 @@
+- ¿Qué espero aprender en la parte de introducción a Julia? 
+
+    *   Repasar los conceptos básicos de environments, paquetes y proyectos y su relación con Git y GitHub.
+    *   Diferentes soluciones para gráficas.
+    *   Soluciones para manejar datos rectangulares.
+
+- ¿Qué experiencia previa tengo en programación?
+
+    *   Algunas proyectos de gráficas y presentaciones con datos rectangulares.
