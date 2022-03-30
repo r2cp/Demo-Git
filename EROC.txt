@@ -1,0 +1,8 @@
+- ¿Qué espero aprender en la parte de introducción a Julia? 
+
+Aprender a programar.
+
+
+- ¿Qué experiencia previa tengo en programación?
+Básica (Principiante)
+...
