@@ -9,6 +9,7 @@ En este archivo indicamos nuestro nombre y usuario de Github:
 - 
 - Guisela Hurtarte guiselaha
 - 
+- José Roany Toc Bac
 - Edson Ortiz edsonortiz1280
 - 
 - Luis Alejandro Samayoa Alvarado
