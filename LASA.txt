@@ -1,0 +1,7 @@
+- ¿Qué espero aprender en la parte de introducción a Julia? 
+
+Espero recordar cosas básicas de programación y no perderme tanto aprendiendo este lenguaje.
+
+- ¿Qué experiencia previa tengo en programación?
+
+...Conocimientos básicos en R y apenas logro recordar sobre Python.
