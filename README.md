@@ -27,4 +27,6 @@ En este archivo indicamos nuestro nombre y usuario de Github:
 - 
 - 
 - 
-- 
+
+¡Estos participantes son geniales!
+
