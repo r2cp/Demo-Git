@@ -17,7 +17,8 @@ En este archivo indicamos nuestro nombre y usuario de Github:
 - 
 - 
 - 
-- 
+- Marian Reynoso, marianrgodoy.
+
 - 
 - 
 - 
