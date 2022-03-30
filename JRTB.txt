@@ -1,0 +1,6 @@
+- ¿Qué espero aprender en la parte de introducción a Julia? 
+
+Poder hacer cálculos repetitivos    
+
+- ¿Qué experiencia previa tengo en programación?
+Casi ninguna
